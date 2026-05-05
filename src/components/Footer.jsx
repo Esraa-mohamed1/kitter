@@ -13,11 +13,11 @@ const Footer = () => {
             <ul className="contact-list">
               <li className="contact-item">
                 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-                <address className="address">3085 Neals Lane, Florida</address>
+                <address className="address">3085 Esraa aura, egypt</address>
               </li>
               <li className="contact-item">
                 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-                <a href="tel:+011234567890" className="contact-link">+01 123 456 789</a>
+                <a href="tel:+011234567890" className="contact-link">+01011435848</a>
               </li>
             </ul>
             <ul className="social-list">
@@ -79,7 +79,7 @@ const Footer = () => {
       <div className="footer-bottom">
         <div className="container">
           <p className="copyright">
-            &copy; 2022 <a href="#" className="copyright-link">codewithsadee</a>. All Rights Reserved
+            &copy; 2026 <a href="#" className="copyright-link">Numpy Data</a>. Created by <a href="#" className="copyright-link">Esraa</a>
           </p>
           <img src="/assets/images/payment_methods.png" width="340" height="40" loading="lazy" alt="Payment methods" className="img" />
         </div>
